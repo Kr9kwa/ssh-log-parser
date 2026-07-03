@@ -1,0 +1,11 @@
+Jun 29 14:30:00 server sshd[1234]: Failed password for admin from 203.0.113.45 port 22 ssh2
+Jun 29 14:31:00 server sshd[1234]: Failed password for root from 203.0.113.45 port 22 ssh2
+Jun 29 14:32:00 server sshd[1234]: Failed password for test from 203.0.113.45 port 22 ssh2
+Jun 29 14:33:00 server sshd[1234]: Failed password for admin from 203.0.113.45 port 22 ssh2
+Jun 29 14:40:00 server sshd[1235]: Failed password for admin from 198.51.100.23 port 22 ssh2
+Jun 29 14:50:00 server sshd[1236]: Failed password for root from 198.51.100.23 port 22 ssh2
+Jun 29 15:10:00 server sshd[1237]: Failed password for test from 198.51.100.23 port 22 ssh2
+Jun 29 14:35:00 server sshd[1238]: Accepted password for kirill from 192.168.1.50 port 22 ssh2
+Jun 29 14:36:00 server sshd[1239]: Failed password for invalid user test from 10.0.0.5 port 22 ssh2
+Jun 29 14:37:00 server sshd[1240]: Failed password for invalid user test from 10.0.0.5 port 22 ssh2
+Jun 29 14:38:00 server sshd[1241]: Failed password for invalid user test from 10.0.0.5 port 22 ssh2
